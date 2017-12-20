@@ -1,0 +1,1 @@
+Because the assignment requires us to write a class, so the folder includes a .cpp and a .h only.
